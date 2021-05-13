@@ -1,0 +1,16 @@
+E:\HD\SENAI\ProjetoPassagensAereas\bin\Debug\net5.0\ProjetoPassagensAereas.exe
+E:\HD\SENAI\ProjetoPassagensAereas\bin\Debug\net5.0\ProjetoPassagensAereas.deps.json
+E:\HD\SENAI\ProjetoPassagensAereas\bin\Debug\net5.0\ProjetoPassagensAereas.runtimeconfig.json
+E:\HD\SENAI\ProjetoPassagensAereas\bin\Debug\net5.0\ProjetoPassagensAereas.runtimeconfig.dev.json
+E:\HD\SENAI\ProjetoPassagensAereas\bin\Debug\net5.0\ProjetoPassagensAereas.dll
+E:\HD\SENAI\ProjetoPassagensAereas\bin\Debug\net5.0\ref\ProjetoPassagensAereas.dll
+E:\HD\SENAI\ProjetoPassagensAereas\bin\Debug\net5.0\ProjetoPassagensAereas.pdb
+E:\HD\SENAI\ProjetoPassagensAereas\obj\Debug\net5.0\ProjetoPassagensAereas.csprojAssemblyReference.cache
+E:\HD\SENAI\ProjetoPassagensAereas\obj\Debug\net5.0\ProjetoPassagensAereas.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI\ProjetoPassagensAereas\obj\Debug\net5.0\ProjetoPassagensAereas.AssemblyInfoInputs.cache
+E:\HD\SENAI\ProjetoPassagensAereas\obj\Debug\net5.0\ProjetoPassagensAereas.AssemblyInfo.cs
+E:\HD\SENAI\ProjetoPassagensAereas\obj\Debug\net5.0\ProjetoPassagensAereas.csproj.CoreCompileInputs.cache
+E:\HD\SENAI\ProjetoPassagensAereas\obj\Debug\net5.0\ProjetoPassagensAereas.dll
+E:\HD\SENAI\ProjetoPassagensAereas\obj\Debug\net5.0\ref\ProjetoPassagensAereas.dll
+E:\HD\SENAI\ProjetoPassagensAereas\obj\Debug\net5.0\ProjetoPassagensAereas.pdb
+E:\HD\SENAI\ProjetoPassagensAereas\obj\Debug\net5.0\ProjetoPassagensAereas.genruntimeconfig.cache
